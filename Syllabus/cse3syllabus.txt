@@ -1,0 +1,116 @@
+<ul type='disc'>
+
+<li>
+<dl>
+<dt>Ma 201 A : Advanced Engineering Mathematics I  (3 Hours, 80 Marks)</dt>
+<dd>
+<b>Section A</b><br>
+Differential equations: Simultaneous differential equations, Total differential equations, Partial 
+differential equations of first order, Charpit's method, Linear partial differential equations with constant 
+coefficients. 
+Linear algebra: Binary operations on set, definitions and examples of group, ring, field and vector spaces. 
+Algebra of matrices, symmetric and skew symmetric matrices, inverse and rank of a matrix, solution of 
+system of linear equations, orthogonal matrices. Hermitian, skew Hermitian and unitary matrices, 
+diagonalization of matrices. Eigen values and Eigen vectors.
+
+<br><b>Section B</b><br>
+Statistical methods: frequency distribution, measures of central tendency: mean, mode, median. 
+Quartiles, deciles, percentiles. Measures of dispersion: mean deviation, standard deviation, variance,
+absolute and relative dispersion, coefficient of variation. Moments for grouped data, relations between 
+moments, computations of skewness and kurtosis. Correlation and Regression analysis of two parameters 
+Probability : Theorems of probability and their application, Binomial, Poisson and Normal probability 
+distributions and their properties.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 211 A : DISCRETE STRUCTURES  (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to Discrete Mathematical Structures, Formal Methods: Induction and Analogy, Abstraction.
+Sets, sequences, empty set, power set, operations on sets, Venn diagram, ordered pair, principle of inclusion and exclusion. Counting and Combinatorics.Introduction to mathematical logic, statements and notations, well-formed formulas, tautologies, tautological implications, normal forms, the theory of Inference for statement calculus, predicate logic.Graph Terminology, Degrees of Nodes, Isomorphic Graphs, Dijkstra's Shortest Path Algorithm, Planar Graphs, Eulerian Graphs, Hamiltonian Graphs, Traveling Salesman Problem. Trees, Introduction, Rooted and Other Trees, Representation of Prefix Codes, representation of Arithmetic Expression, Representation of Prefix Codes, Spanning Trees, Traversing Binary Trees, Binary Search Trees.Relations, matrix and graph representation of relation, properties of relations, partitions. Equivalence Relations, Compatibility Relations, Composition of Binary Relations, Transitive and symmetric closures, partially ordered set, lattices. Recurrence relations.Functions, Matrix representation of functions, composition of function, inverse function. 
+Algebraic Structures, General properties of algebraic systems, groupoids, semigroup, monoids, group, rings. Applications of algebra to control structure of a program. Homomorphism, congruejnces, admissible partitions.Groups and their graphs.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 212 A : OBJECT ORIENTED PROGRAMMING  (3 Hours, 80 Marks)</dt>
+<dd>
+A review of C. Concepts of object oriented programming using C++. Data types: elementary and derived data types, literals.Operators and expressions: operators, association and precedence rules of operators, expressions using unary, binary and ternary operators.Statements: declarations as statements, selection statements, iteration statements, goto statement, break statement, continue statement, return statement, try-catch block. Functions: void functions, functions with return value, call by value and call by reference parameter passing, default parameters, recursive functions, inline functions. Classes: classes, objects, friend functions, classes within a class, local classes, global classes, constructors, destructors. Derived classes: single and multiple derivation of classes, multilevel and hybrid derivation of classes, constructors, destructors. Polymorphism: function and operator overloading, virtual functions. Streams: input and output of built-in data types, manipulators. File streams: opening a file, accessing a file, closing a file. Exceptions: catching exceptions, rethrowing the exception, standard exceptions. Templates: defining a template, template instantiation, function templates, class templates. Elementary case study of a object oriented database in C++.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 213 A : DATA STRUCTURES AND ALGORITHMS  (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to Data Structures: Need of data structures, Primitive and Non-primitive data structures. Linear Data Structures - Arrays, Multidimensional arrays, Storing arrays in memory, applications.
+Time and space complexity of the algorithms : Big-O,theta,ohm, and little-o & ohm, Asymptotic complexity, Upper and Lower bound time and space tradeoffs. 
+Stacks - Basic Operations, Representation using Static and Dynamic arrays, Multiple stack implementation using single array, Applications of stack: Recursion, Reversing lists, Factorial Calculation, Infix to postfix Transformation, Evaluating Arithmetic Expressions and Towers of Hanoi. Queues: Basic Operations, Representation using arrays, Applications - Round Robin Algorithm. Circular Queues, DeQueue, Priority Queues. 
+Linked Lists - Representation of linked lists in memory, Operations on a Single linked list, Reversing, Advantages and Disadvantages of single linked list, circular linked list, double linked list. 
+Searching Techniques - Sequential and binary search. Sorting Techniques - Basic concepts, Bubble Sort, Insertion sort, Selection sort, Quick sort, Heap sort, Merge sort and Radix sort. 
+Trees - Definition of tree, Properties of tree, Binary Tree, Representation of Binary trees using arrays and linked lists, Operations on a Binary Tree, Binary Tree Traversals (recursive), Binary search tree, B-tree, AVL tree, Threaded binary tree. 
+Graphs - Basic concepts, Different representations of Graphs, Graph Traversals (BFS & DFS), Minimum Spanning Tree (Prims & Kruskal, Dijkstra's shortest path algorithms. Hashing: Hash function, Address calculation techniques, Common hashing functions, Collision resolution: Linear and Quadratic probing, Double hashing.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>EC 214 A : LOGIC DESIGN  (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to number systems, concept of logic gates, boolean algebra and simplification of boolean 
+expressions, K-map, tabular method, combinational circuits, half adder, full adder, flip flops, transfer circuits, clocks, shift registers and binary and BCD counters.
+Multiplexer, demultiplexer, encoder, decoder.
+Analysis and design of synchronous sequential systems, finite memory and flow chart method of design, State assignment, races and hazards, Introduction to threshold logic & relay circuits, sequential adder.
+Introduction to switching devices, positive and negative logic. OR, AND, NOR, NAND, Exclusive OR and 
+Exclusive NOR gates, RTL, DCL, DCTL, TTL, RCTL, ECL, HTL, MOS AND CMOS logic circuit and their 
+realization. Fan-in and Fan-out capacity. Speed and delay in logic circuit.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 215 A : PROFESSIONAL PRACTICE, CYBER LAW AND ETHICS (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to Professional Practice. Graduate Attributes, Expectations and Program Educational Objectives. 
+Introduction to Professional Bodies & Societies - IEEE, ACM, CSI, IEI, Cert-IN, MeiTy, DST (Central & State), NASSCOM etc. Corporate Career vs Entrepreneurship. 
+Concept of Ethics, Values and Morality. Concept of Harmony, Co-Existence and Social Responsibility. Ethical Conflicts and Case Studies. Ethics for Students - Discipline, Plagiarism, Responsibilities, Safety, Bias & Discrimination, Harassment. Ethics for Innovation, Peer Learning and Productivity. Sustainable Development and Environmental Ethics. Concept of 5Rs. Ethics for Software Professionals - ACM/IEEE Software Engineering Code of Ethics and Professional Practice. 
+Professional Practices - Concept and Case studies for Ego Management, Leadership, Sharing of Resources, Confidentiality, Privacy and Digital Divide at work. Work Etiquettes for In-person meetings, Virtual Communications (Audio, Video & Emails), Social Media, Body Language and Corporate Dining. International Etiquettes - Language, Timezones, Holidays & Customs. 
+Industry Practices - Case studies on Corporate Structure, Values, Policies and Employee Code of Conduct. 
+Introduction to Software Documentation & Contracts. Proprietary & Open Source Licensing Models. Basics of Software Requirements, Quality, Version Control and Risk Management. Introduction to ISO/IEC/IEEE 12207, IEEE 830-1998, CMMI and Six Sigma. Lifelong Learning for CS professionals - Need, Resources and Approaches. 
+Introduction to Compliance Audits - ISO 27001, CISSP and CISSA. 
+Cyber Laws - Cybercrimes and Cyber security, Need of Cyber laws, The Indian IT Act, 2000 and its amendments. 
+Challenges to Indian Law and Cybercrime Scenario in India. Intellectual Property Rights - Patents, Trademarks, 
+Trade Secrets, Designs, Copyrights. Breach of IPR and remedies. Data Protection Laws in India. Case Studies on IPR and Cybercrime lawsuits.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 216B : PYTHON PROGRAMMING LABORATORY (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to Python, Python Data Types, Python Operators and Operands, Python Program Flow Control, 
+Python Functions, Modules and Packages Organizing python codes using functions, Organizing python projects 
+into modules, Importing own module as well as external modules, understanding Packages Powerful Lamda 
+Function in Python programming using Functions, modules and external packages.
+Python File Operations.
+</dd>
+</dl>
+</li>
+
+
+
+</ul>

@@ -1,0 +1,103 @@
+Data Base :-
+
+
+=> Faculty/Admin ::--
+Table name = faculty
+1.  id int : auto_increment=1000 : primary key
+2.  name varchar(25)
+3.  dob date
+4.  mail varchar(35)
+5.  mobile varchar(10)
+6.  adhar varchar(12)
+7.  post varchar(20)
+8.  qual varchar(10)
+9.  spec varchar(70)
+10. profile varchar(35)
+11. password varchar(15)
+  
+
+=> Student ::-
+Table name = student
+1.  id int : auto_increment=100 : primary key
+2.  rollno varchar(10)
+3.  name varchar(25) 
+4.  dob date
+5.  mail varchar(40)
+6.  mobile varchar(10)
+7.  adhar varchar(12)
+8.  batch varchar(4)
+9.  semester int
+10. profile varchar(35)
+11. password varchar(15)
+
+
+=> Notice
+Table name = notice
+1.  noticeid int : auto_increment=1 : primary key
+2.  description varchar(400)
+3.  udate date()
+
+
+=> Time table::-
+
+	*** For Student ***
+	Table name = student_timetable
+	1. Semester int not null
+	2. Period varchar(8) not null
+	3. Monday varchar(15)
+	4. TuesDay varchar(15)
+	5. WednesDay varchar(15)
+	6. ThursDay varchar(15)
+	7. FriDay varchar(15)
+	8. SaturDay varchar(15)
+
+	*** For Faculty ***
+	1. 
+	2. 
+	3. 
+	4.
+	 
+	
+
+=> Attendence
+	*** Absent Student Information ***
+	Table name = absentstudent
+	1. rollno varchar(10) : not null
+	2. doc date : not null
+	3. semester int : not null
+
+	*** absenttable ***
+	1. doc date : not null	
+	2. totalabsent int : not null
+	3. semester int : not null
+
+
+
+=> Subject
+Table name = subject
+1. semester int
+2. code varchar(5) : Primary key
+3. sname varchar(20)
+4. name varchar(70)
+
+
+
+
+
+=> Records::-
+1. Roll Number
+2. Name
+3. Date of Birth
+4. Semester
+5. Subject_Mark
+5. Attendence
+
+
+
+==> Assignment
+1. Subject Name
+2. Semester
+3. File
+4. Date
+5. Marks
+6. Batch

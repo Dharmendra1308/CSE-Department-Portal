@@ -1,0 +1,105 @@
+<ul type='disc'>
+
+<li>
+<dl>
+<dt>CSE 411A : CRYPTOGRAPHY AND SECURITY (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to cryptography, Classical Cryptosystem, Block Cipher. Data Encryption Standard (DES), 
+Triple DES, Modes of Operation, Stream Cipher. LFSR based Stream Cipher, Mathematical 
+background, Abstract algebra, Number Theory. Modular Inverse, Extended Euclid Algorithm, Fermat's 
+Little Theorem, Euler Phi-Function, Euler's theorem. 
+Advanced Encryption Standard (AES), Introduction to Public Key Cryptosystem, Diffie-Hellman Key 
+Exchange, Knapsack Cryptosystem, RSA Cryptosystem. Primarily Testing, ElGamal Cryptosystem, 
+Elliptic Curve over the Reals, Elliptic curve Modulo a Prime. Generalized ElGamal Public Key 
+Cryptosystem, Rabin Cryptosystem. 
+Message Authentication, Digital Signature, Key Management, Key Exchange, Hash Function. 
+Cryptographic Hash Function, Secure Hash Algorithm (SHA), Digital Signature Standard (DSS). 
+Cryptanalysis, Time-Memory Trade-off Attack, Differential and Linear Cryptanalysis. Cryptanalysis on 
+Stream Cipher, Modern Stream Ciphers, Shamir's secret sharing and BE, Identity-based Encryption 
+(IBE), Attribute-based Encryption (ABE). 
+Side-channel attack, The Secure Sockets Layer (SSL), Pretty Good Privacy (PGP), Introduction to 
+Quantum Cryptography, Blockchain, Bitcoin and Cryptocurrency.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 412A : DATA SCIENCE AND ANALYTICS (3 Hours, 80 Marks)</dt>
+<dd>
+Concept and History of Data Science. Overview and Traits of Big data, Objectives & Applications of Analytics. Data Driven 
+Business Models and Challenges. Introduction to Data Pipelines and Data Governance. Analysis vs Reporting. Types of 
+Variables - Numerical, Categorical (Nominal & Ordinal). 
+Descriptive Analytics - Single and Multi-variate analysis. Graphical Representation - Bar, Pie, Box Plots, Histograms, 
+Scatter Plots, Contour Plots. Measures of Central Tendency, Measures of Dispersion, Higher Order Moments. Correlation 
+and Variance Analysis, Simpson's Paradox. Inferential Analytics - Independence and Conditional Probability, Entropy. 
+Estimation and Confidence Intervals. Single Sample and Two Sample Tests. Hypothesis and Inference, Null Hypothesis. 
+Chi-square Test. 
+Predictive Analytics - Linear Regression - Model Assumptions, Regularization (lasso, ridge, elastic net) Classification 
+algorithms : K-Nearest Neighbors, Logistic Regression, Decision trees, Support Vector Machines (SVM), Neural Networks. 
+Clustering: K-means, Associative Rule Mining.
+Time Series Analysis - Linear Systems Analysis, Nonlinear Dynamics, Rule Induction. Data Collection - Design of 
+Experiments (DOE), Active (Offline) and Reinforcement (Online) Learning. Web Scrapping and Public APIs (e.g. Twitter 
+APIs). 
+Case Study of Data Science Applications. Example - Weather forecasting, Stock market prediction, Object recognition, 
+Real Time Sentiment Analysis. Introduction to Open-Source Data Science Toolkit - R, Python, Weka. Libraries - Matplotlib, NumPy, Pandas, Scikit-learn, Tensorflow. Anaconda & Jupyter distributions.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 413A : SOFTWARE ENGINEERING (3 Hours, 80 Marks)</dt>
+<dd>
+Taxonomy of Software Development Life Cycle. Models - Waterfall, Spiral, Prototype, Agile, TSP, Extreme 
+Programming. Introduction to Scrum terminology - Product backlog, Increments, ScrumMaster, Sprint, Velocity. 
+Understanding Requirements. Functional and Non-Functional Requirements. Requirements Elicitation. User vs System 
+Requirements. Requirement Specification & Validation. Change Management. 
+Aspects of Software Design - Attributes of a Good Design. Identifying Actors, Use cases and Activities. Functional 
+Design - Top Down vs Bottom Up. Object-Oriented Design - Classes, Hierarchies, Aggregation & Relationships. 
+Modelling structure, interactions and behavior. Unified Modelling Language. Component Level Design - Coupling and 
+Cohesion. Data Flow and Process Specification, Design Principles - STUPID, SOLID, GRASP. 
+Software Architecture - Importance and Views. Architectural Styles - Client-Server, Component Based, Domain Driven, 
+MVC, Layered, N-Tier, Object-Oriented, Service-Oriented, RESTful and Microservices Architecture. Architecture 
+Description. Component and Deployment Diagrams. Software Project Planning, Software Metrics - LoC, FP,
+Complexity. Scheduling and Cost Estimation. 
+Implementation Challenges. Reuse - Design Patterns (Bridge, Adapter, Strategy, Factory, Command, Composite, 
+Decorator, Proxy, Observer). Version Control - Git. Code Quality - Readability, Documentation and Plagiarism. 
+Globalization - Character Sets, Timezones, Currencies, Laws and Taxation. Personalization - User Preferences, 
+Demographic, Device Specific, Privacy. 
+Importance of Software Quality Assurance. Software Reviews, Test-Driven Development. Unit Testing. Black & White 
+box testing. Functional Tests. Introduction to Test Automation with JUnit. Software Acceptance. Verification and 
+Validation.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 414 A : ROBOTICS & EMBEDDED SYSTEM (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to Automation and Robotics, present and future applications, classification by coordinate 
+system. Components of the Industrial Robotics: Function line diagram representation of robot arms, 
+common types of arms. Components, Architecture, number of degrees of freedom, requirements and 
+challenges of end effectors, determination of the end effectors, comparison of Electric, Hydraulic and 
+Pneumatic types of locomotion devices.
+Motion Analysis: Homogeneous transformations as applicable to rotation and translation
+numerical problems. Manipulator Kinematics: Specifications of matrices, D-H notation joint
+coordinates and world coordinates. Forward and inverse kinematics numerical problems.
+Trajectory planning and avoidance of obstacles, path planning, Robot actuators and feed back 
+components: position sensors - potentiometers, resolvers, encoders and velocity sensors.
+Introduction to Embedded systems, Applications of Embedded Systems, Software tools, Microcontroller 
+Families, Introduction to AVR microcontrollers, Interfacing of:
+LEDs, Switches, Relays, LCD, 7 Segment Display, ADC, Stepper Motors, DC Motors, IR
+Sensors, Serial Communication, GSM module, GPS module, I2C devices, PWM Techniques, Cross 
+Compilers. 
+Mini software/hardware/simulation project.
+</dd>
+</dl>
+</li>
+
+
+</ul>

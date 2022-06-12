@@ -1,0 +1,19 @@
+CSE 3rd Sem :: - Passing Mark 35
+
+
+Data Structure and Algorithm
+
+( Normal Introduction Of C Programming)
+
+1. Array (Daynamic and Static Array)
+2. Pointer
+3. Stack and Adv. Form	
+4. Queue and Adv. Form 
+5. Linked List and Adv. Form
+6. Tree
+7. Graph
+8. Hash
+
+
+9. Searching Algorithms
+10. Sorting Algorithms

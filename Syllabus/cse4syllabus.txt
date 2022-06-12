@@ -1,0 +1,124 @@
+<ul type='disc'>
+
+<li>
+<dl>
+<dt>Ma 202 A : Advanced Engineering Mathematics II  (3 Hours, 80 Marks)</dt>
+<dd>
+<b>Section A</b><br>
+Transforms: Laplace Transform, Inverse Laplace Transform, Properties of Laplace Transforms, Application of Laplace Transform to solve differential equation with constant coefficients and simultaneous linear differential equations. 
+Special function: Series solution of Bessel and Legendre's differential equations. Generating function of Bessel and Legendre's Polynomials. Orthogonal Property of Bessel and Legendre's function. 
+Rodrigue's formula. Recurrence relations of Bessel and Legendre's polynomials.
+
+<br><b>Section B</b><br>
+Numerical Analysis: Interpolation with equal intervals: Newton-Gregory interpolation formulae, Lagrange's, interpolation formula for unequal intervals. Central difference interpolation formulae: 
+Gauss' forward and backward formulae, Stirling's and Bessel's interpolation formulae. Numerical integration: Trapezoidal rule, Simpson's 1/3 and 3/8 rule. Numerical solution of algebraic and transcendental equations: Bisection, regula falsi and Newton-Raphson methods. Numerical solution of linear simultaneous equations: Gauss' elimination, Gauss-Jordon, Jacobi and Gauss-Siedal methods. 
+Numerical solution of ordinary differential equations: Euler's, Runge-Kutta Fourth order and Milne's methods. Numerical eigen value and eigen vector: Power method, Givin's method.
+
+
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 221 A : PRINCIPLES OF PROGRAMMING LANGUAGES  (3 Hours, 80 Marks)</dt>
+<dd>
+Importance of programming languages, brief history , features of good programming language. Translators, Syntax, semantics, virtual computers. Binding and binding time. 
+Elementary and structured data types, their specifications and implementation. Type checking and type 
+conversion, vectors arrays, records, character string, variable size data structures. Sets, input and output files. 
+Evolution of the concept of data type, abstraction, encapsulation and information binding, subprograms, type definition and abstract data types.
+Implicit and explicit sequence control, sequence control within expression and between statements. 
+Subprogram sequence control, Recursive subprograms, Exception and exception handlers, Coroutines 
+and scheduled subprograms. Task and concurrency exception. 
+Names and referencing environments, Static, dynamic and block structure, Local data and local referencing environments. 
+Dynamic and static scope of shared data, Block structure, parameters and their transmission. Tasks and 
+shared data. Storage requirement for major run-time elements. Program and system controlled storage 
+management. Static and stack-based storage management. Fixed size and variable-size heap storage management.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 222 A : COMPUTER ORGANIZATION AND ARCHITECTURE (3 Hours, 80 Marks)</dt>
+<dd>
+Organization of computer system, Basic Building blocks of CPU-ALU, Timing and Control Unit, Construction of ALU, integer representation, binary half and full adder. Parallel full adder. Addition and subtraction in a Parallel arithmetic element. BCD adder. Binary multiplication, Booth's algorithm. Binary division. Logical operations, implementation of logical instructions, floating point number system, and arithmetic operations on floating point numbers. 
+General instruction formats, addressing modes.
+Concept of control unit, execution of instructions, Hardwired and Microprogrammed control unit, Microinstructions, Horizontal and vertical format, Microprogramming, Wilkes control. Memory element , RAM, Static RAM, Dynamic RAM, dimension of memory access, ROM, PROM, EPROM, EEPROM, Magnetic, CCD and cache memories. Hierarchy of memories. Associative memory.
+Interconnection of computer components, buses, bus formats and operations, isolated and memory-mapped 
+input-output, interfacing of keyboards and printers. Interrupts in IO systems, DMA. Data transfer, DMA 
+interrupts, polling, masking, nested interrupts. Control of data transfer, handshaking, bus scheduling, standard bus interfaces.
+Introduction to printers, magnetic tapes, disks, floppy disks, optical disk.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 223 A : DATABASE MANAGEMENT SYSTEM (3 Hours, 80 Marks)</dt>
+<dd>
+Overview and History of DBMS. File System v/s DBMS. Advantages of DBMS Describing and Storing Data in a DBMS. 
+Queries in DBMS. Structure of a DBMS. Types of Databases. Comparison between RDBMS and OODBMS. 
+Entity Relationship model: Overview of Entities, Attributes and Relationships. Features of the ER Model- Sets, 
+Constraints & Hierarchies. Data Design with ER Model. Relational Algebra and Tuple Calculus - Selection, Projection, 
+Set Operations, Renaming, Joints, Division, Relation Calculus, Expressive Power of Algebra and Calculus. 
+Structures Query Language: Union, Intersection, Except, Nested Queries, Set-Comparison, Aggregate Operators, Null 
+Values. Join Queries, Group & Order Clauses. Key Constraints in SQL, Views & Triggers. Introduction to ODBC and 
+JDBC. 
+Schema & Normalization - Introduction to Schema, Functional Dependencies, Relational Normal Forms, Need for 
+Normalization, Decomposition into BCNF and 3-NF. Transactions: Transaction Concept, Transaction States, Atomicity, 
+Consistency, Isolation & Durability. 
+Concurrency Control - Concurrent Executions, Serializability, Lock-Based Protocols, Timestamp-Based Protocols, 
+Deadlock Handling. Database Failures - Introduction and Recovery Schemes. Shadow Paging and Log-based Recovery. 
+Recovery with Concurrent transactions. 
+Storage and Indexing - Concepts. Organization of Records, Data-Dictionary Storage, Column-Oriented Storage. 
+Ordered Indices, Hash Indices & Bitmap Indices. B-Trees and B+ Trees. Security and Integrity - Authorization, Security 
+Specification in SQL, Encryption and Statistics in databases. Introduction to relational, distributed, centralized and 
+object-oriented databases.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 225A : DATA COMMUNICATION (3 Hours, 80 Marks)</dt>
+<dd>
+Overview and Architecture of Communication Systems. Basic Communication Model. Need and 
+Advantages of Data Communications. Analog and Digital Signals - Periodic and Nonperiodic, Time and 
+Frequency Domains, Concept of Bandwidth, Bit rate, Bit Length. 
+Digital Communication - Transmission of Digital Signals, Transmission Impairments, Date Rate Limits, 
+Nyquist Bit Rate, Noisy Channel - Shannon Capacity, Performance - Bandwidth, Throughput, Latency, 
+Bandwidth-Delay, Jitter. Digital-To-Digital Conversion, Analog-To-Digital Conversion, Digital-To-Analog Conversion, Analog-To-Analog Conversion. 
+Data Transmission - Transmission Modes, Multiplexing, FDM, TDM, WDM. Spread Spectrum - FHSS, 
+DSSS. Transmission Media - Twisted-Pair, Coaxial Cable, Fiber-Optic. Unguided Media - Wireless, 
+Radio, Microwave and Infrared. Introduction to telecommunication networks - Simplex, Duplex and 
+Half-Duplex lines. 
+Introduction to Computer Networks, Types of Networks, Standards, Protocol Layers. The OSI Model. 
+Introduction to Switching - Circuit and Packet Switching. Error Detection and Correction - Block 
+coding, Cyclic codes, Checksum, Forward error correction. 
+Data link control: DLC services, Framing, Flow and error control, Data link layer addressing and 
+protocols, HDLC and P2P. Media Access control: Random Access, Controlled Access and 
+Channelization. Wired LANs and Ethernet Protocol, Overview of Radio-wave Propagation, Optical and 
+Satellite Communications.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 226B: UNIX/LINUX LABORATORY (3 Hours, 80 Marks)</dt>
+<dd>
+Installation of Unix/Linux operating system. Study of logging/logout details. Study of Unix/Linux general purpose utility command list obtained from (man, who, cat, cd, cp, ps, ls, mv, rm, mkdir, rmdir, echo, more, date, time, kill, history, chmod, chown, finger, pwd, cal, logout) commands. Study of vi editor. 
+Study of Bash shell, Bourne shell and C shell in Unix/Linux operating system. Study of Unix/Linux file 
+system (tree structure). Study of .bashrc, /etc/bashrc and Environment variables. Shell script programming, sed command, grep, awk, perl scripts. Different debug option (verbose, trace, xtrace).
+</dd>
+</dl>
+</li>
+
+
+</ul>

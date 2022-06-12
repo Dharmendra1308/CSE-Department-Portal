@@ -1,0 +1,109 @@
+<ul type='disc'>
+
+<li>
+<dl>
+<dt>CSE 311 A : THEORY OF COMPUTATION (3 Hours, 80 Marks)</dt>
+<dd>
+Finite Automata & Regular Expression: Basic Concepts of finite state machine. Deterministic and Non-deterministic finite automata. Conversion of NDFA to DFA, NFAs with epsilon transitions. Design regular expressions. Relationship between regular expression & Finite automata. Minimization of finite 
+automata. Finite automata with output: Mealy & Moore Machines. Regular Set and Regular Grammar: Formal definition of Regular Language and Grammar. Regular Sets and Regular Grammars. Equivalence of regular grammar and finite automata. Kleen's closure Theorem. Arden's Theorem. Closure properties of Regular language. Pumping lemma for Regular language. Myhill-Nerode theorem. 
+Context Free Grammar/ Language & Pushdown Automata: Context Free Grammars. Derivations, 
+Parse trees, Ambiguity. Greiback Normal form, Chomsky normal forms. Pushdown Automata: 
+Definitions, Instantaneous descriptions, Deterministic pushdown automata, Non-deterministic 
+Pushdown automata. Context Free Language. Closure properties of CFLs. Pumping lemma for CFL. 
+Linear bounded Automata & Context Sensitive Language: Chomsky Hierarchy of Languages and 
+automata, Introduction to Linear bounded Automata, Instantaneous descriptions. Properties of 
+context-sensitive languages. Context sensitive grammar. Turing Machine: Definition of Turing machine, Instantaneous descriptions. Design of TM, Other Turing Machine Models. Recursive language and Recursively enumerable languages. Computability. Universal Turing Machines, Church-Turing Thesis, Halting Problem, Reductions and Undecidability Proofs. Rice's Theorem.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 312 A : DESIGN AND ANALYSIS OF ALGORITHM (3 Hours, 80 Marks)</dt>
+<dd>
+Review of Algorithm and its specification, performance analysis and Randomized Algorithms. Random access 
+machines (RAM), computational complexity of RAM program. Time and Space complexity, Asymptotic notations (Big? O,Theta,ohm, and little-o & ohm). Complexity estimation using Substitution method, Recursion trees and Master Method. 
+Design of Efficient Algorithms: Divide and conquer: Binary Search, finding maximum and minimum, Merge Sort, Quick 
+Sort, Matrix Multiplication, Convex Hull. Greedy methods: Knapsack problem, tree vertex splitting, Minimum 
+Spanning Trees - Prim's and Kruskal's Algorithms, Optimal Reliability Allocation, Knapsack, Single Source Shortest 
+Paths - Dijkstra's and Bellman Ford Algorithms. 
+Design of Efficient Algorithms: Dynamic programming: Matrix Chain Multiplication, Longest Common Subsequence, 
+Multi Stage Graph and 0/1 Knapsack Problem, all Pair Shortest Paths - Warshal's and Floyd's Algorithms, Resource 
+Allocation Problem. Backtracking, Branch and Bound: Traveling Salesman Problem and Lower Bound Theory, Graph 
+Coloring, n-Queen Problem and Hamiltonian Cycles. 
+Comparative study of Sorting Algorithms - Radix sort, Heap sort, Merge sort, Quick sort and Topological Sort. Order 
+statistics and expected time for order statistics. Advanced Trees - Definitions, Operations on Weight Balanced Trees, 
+Huffman Trees, 2-3 Trees and Red- Black Trees. 
+Graph Theory Algorithms - Algorithms for Connectedness, finding all Spanning Trees in a Weighted Graph and 
+Planarity Testing, Breadth First and Depth First Search, Vertex cover problem. Polynomial Time Solvable problems, 
+Reductions and Completeness, Definition and Interpretation of NP-Completeness, The P vs. NP, Algorithmic Approaches to NP-Complete Problems.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 313 A : SYSTEM SOFTWARE AND OPERATING SYSTEM (3 Hours, 80 Marks)</dt>
+<dd>
+Overview of System Architecture. Types and Goals of System Software. Hierarchy of Programming Languages. Design 
+of an Assembler - Functions, Data Structures and Algorithms. Introduction to Loaders & Linkers - Absolute loaders, 
+Bootstrap loaders, Library Search & Linkage Editors. Dynamic & Static Linking. 
+Operating Systems: Overview, Structure and Services, System Calls. Programs, Process and Threads. Process Life Cycle. 
+Operations on Processes. User mode & Kernel Mode Programs. 
+Process Management: Process Scheduling - Objectives & Algorithms. Inter Process Communication. Process
+Synchronization - Critical Section Problem, S/W & H/W Approaches. Peterson's Solution. Semaphores, Monitors. 
+Classical Problems. 
+Deadlock: Overview, Characteristics, Prevention, Avoidance, Detection and Recovery. 
+Memory Management: Address Spaces - Logical and Physical. Contiguous & Non-Contiguous Allocation, 
+Fragmentation. Swapping, Paging, Segmentation. Virtual Memory - Demand Paging, Page Replacement Algorithms, 
+Thrashing. 
+File Concepts & File Systems: Directory Structure, Access Methods, File Protection. Disk Scheduling Algorithms. 
+Input/Output: Polling, Interrupt Driven, Direct Memory Access. Security and Authentication in OS.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 314A : MICROPROCESSORS (3 Hours, 80 Marks)</dt>
+<dd>
+An introduction to 80x86 microprocessor family, Real and Protected mode Operation, S/W model of 80x86 
+family, processor registers, data organization, Instruction types, addressing modes, interrupts, a comparative study of 8086, 80286, 80386, and Pentium.
+Software Architecture, Addressing modes, Flags, Data transfer and string instructions, arithmetic, logical, bit manipulation, program transfer and processor control instructions. 
+Use of assembler directives, Using macros, instruction execution time, Interrupt Processing, working with interrupt vectors, Use of BIOS and DOS function calls, using disks and files.
+Protected mode operation, Segmentation, Paging, Protection, Multitasking, Exceptions, Virtual- 8086 mode, Protected mode applications,An introduction to supporting chips and interfacing - 8255, 8279,8253, 8259, 8257 (their advanced versions). Interfacing assembly with C- language.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 316A- COMPUTER NETWORKS (3 Hours, 80 Marks)</dt>
+<dd>
+Overview of Network topologies and OSI reference model. TCP/IP Protocol Suite. Layers in TCP/IP. 
+Network Devices - Switch, Hub, Router, Gateway. Overview of Physical Layer and Data Link Layer. 
+Network Layer - Packets, Connectionless and Connection-Oriented protocols services. Introduction to 
+IPv4 & IPv6. IPV4 Addressing, Forwarding of Packets. Routing algorithms. Performance - Delay, 
+Throughput, Packet Loss, Congestion. Datagrams & Fragmentation. OSPF & BGP. Introduction to 
+Multicasting - types, addresses, forwarding. Overview of ICMP & IGMP. Mobile IP - Addressing, 
+Agents & Phases. 
+Transport Layer - Services, Protocols - Stop-and-wait, Go-Back-N, Selective Repeat, Piggybacking. 
+Datagrams & UDP - Services & Applications. TCP - Services, Features, States. Windows in TCP, Flow 
+& Error Control, Congestion Control, Timers. 
+Session and Application Layer - Introduction to WWW and HTTP, FTP, SMTP, TELNET, SSH, DNS 
+and SNMP. Introduction to Multimedia and Compression. RTP & RTCP, SIP. 
+Introduction to Wireless Networks - Basics of Radio Transmission - Signals, Antennas, Signal 
+Propagation. Wireless LAN - Infrared Vs Radio transmissions, Infrastructure and Adhoc networks, 
+IEEE 802.11 b/a/g, Bluetooth. Adhoc Networks - Routing algorithms & Metrics. Introduction to Cellular 
+Network Architecture - Protocols, Localization and Calling, Handover. Overview of GSM, 3G and 4G 
+Networks. Overview of Cryptography & Network Security.
+</dd>
+</dl>
+</li>
+
+
+</ul>

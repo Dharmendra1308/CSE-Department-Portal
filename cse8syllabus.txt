@@ -1,0 +1,276 @@
+<ul type='disc'>
+
+<li>
+<dl>
+<dt>CSE 421 A : INTERNET OF THINGS (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to IoT, Architectural Overview, Design principles and needed capabilities, IoT Applications. Sensing and 
+Actuation. IoT sensors - motion (location, acceleration, direction and orientation), environmental (temperature, 
+humidity, pressure), chemical (water quality and gas), physical (proximity, smoke, water level, reed switch) and 
+perception (optical, infrared, auditory) sensors. IoT Actuators - Motors (Servo, Stepper, DC, Linear), Relays, Solenoids. 
+Basics of Networking. Devices and Gateways. Communication Protocols - BLE, WiFi, ZigBee, LoRa, NFC. Data Protocols 
+- MQTT, AMQP, CoAP & XMPP. Wireless Sensor Networks. Machine-to-Machine Communications (M2M). 
+Interoperability in IoT. 
+Introduction to Arduino Programming, Integration of Sensors and Actuators with Arduino. Introduction to Raspberry 
+Pi. Implementation of IoT systems using Raspberry Pi. Connecting RPi to internet. Running Python programs on RPi. 
+Server Components - Client-Server and RESTful architectures. Introduction to SDN, SDN for IoT. Cloud Architectures : Sensor-Cloud, Fog & Edge Computing. Energy Efficiency, QoS, QoE and Everything as a Service (XaaS). Unstructured vs 
+Structured Data Storage. Searching and Data Analytics in IoT. 
+Authentication & Authorization, Business Processes in IoT, Security in IoT, Data Governance & Privacy. Big Data in IoT. 
+Case Studies - Smart Cities and Smart Homes. Connected Vehicles, Smart Grid, Industrial IoT. Internet of Medical 
+Things. Case Study: Agriculture, Healthcare, Activity Monitoring.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 422 A : CLOUD COMPUTING (3 Hours, 80 Marks)</dt>
+<dd>
+Overview of Computing Paradigm : Recent trends in Computing, Grid Computing, Cluster Computing, 
+Distributed Computing, Utility Computing, Cloud Computing, Evolution of cloud computing, Business driver for 
+adopting cloud computing. History of Cloud Computing, Cloud service providers, Properties, Characteristics & 
+Disadvantages, Pros and Cons of Cloud Computing, Benefits of Cloud Computing, Cloud computing vs. Cluster 
+computing vs. Grid computing, Role of Open Standards. 
+ 
+Cloud Computing Architecture: Cloud computing stack, Comparison with traditional computing architecture 
+(client/server), Services provided at various levels, Role of Networks in Cloud computing, protocols used, Role of 
+Web services, Service Models (XaaS), Deployment Models & types of cloud. 
+ 
+Infrastructure as a Service(IaaS) :Introduction to IaaS, Virtualization, Approaches to virtualization, Hypervisors, 
+Machine Image, Virtual Machine(VM), Resource Virtualization, Server, Storage, Network, 
+Virtual Machine(resource) provisioning and manageability, Data storage in cloud computing, storage as a 
+service. Platform as a Service(PaaS) :Introduction to PaaS, Service Oriented Architecture (SOA), Cloud Platform 
+and Management, Computation, Storage, Examples, Google App Engine, Microsoft Azure, SalesForce platforms. 
+ 
+Software as a Service(PaaS) : Introduction to SaaS, Web services,Web 2.0,Web OS. Service Management in Cloud 
+Computing: Service Level Agreements(SLAs), Billing & Accounting, Comparing Scaling Hardware: Traditional vs. Cloud, Economics of scaling: Benefitting enormously, Managing Data, Looking at Data, Scalability & Cloud 
+Services, Database & Data Stores in Cloud,Large Scale Data Processing 
+ 
+Cloud Security: Infrastructure Security, Network level security, Host level security, Application level security, 
+Data security and Storage, Data privacy and security Issues, Jurisdictional issues raised by Data location, Identity 
+& Access Management, Access Control, Trust, Reputation, Risk, Authentication in cloud computing, Client access 
+in cloud, Cloud contracting Model, Commercial and business considerations. Case Study on Open Source & 
+Commercial Clouds: Examples - Open stack, Microsoft Azure, Amazon AWS, Google Cloud.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 453A : CLIENT-SERVER TECHNOLOGY (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction: Client/Server architecture, Benefits, application, centralize multiuser, Distributed single user 
+architecture, distributed computing environment. 
+Approach to Distribution: Distributed models, multi tiered environment, cooperative processing, application 
+components, and distribution points. Presentation distribution, distributed processing, distributed function and 
+transaction processing, data distribution. 
+Client technologies: Function, Application and tools, operating system, hardware plate forms, database access, 
+interprocess communication tools. 
+Server technologies: Function, server operating system, hardware plate forms, data access, distributed data 
+access, database engines. 
+System networks Architectures: Components, layers, pear-to-pear communication between SNA layers. 
+Data Management: Distributed data management, method of the distribution, distributed data access. Database 
+transaction management. 
+Distributed DBMS: Architecture, storing data in a distributed DBMS, Distributed catalog, management, 
+Distributed query processing, Update distributed data. Introduction to distributed transactions, distributed 
+concurrency control, and distributed recovery.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 454 A : MULTIMEDIA TECHNOLOGY (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to multimedia and its applications, Basic requirements for multimedia, Multimedia building blocks - Text, Sound, Images, Animation, Video and related tools. 
+ Multimedia Hardware: SCSI, MCI, Memory and storage devices, Output Hardware, Communication devices. 
+ Multimedia Software: Basic tools - Painting and drawing tools, 3-D modelling and animation tools, Images and 
+editing tools, OCR software, Sound Editing programs, Animation, Video and Digital Movies, Video Formats, 
+Compressing movie files. 
+Multimedia Authoring tools: Selecting a right tool based on various features, card and page based authoring 
+tools, Icon based authoring tools, Time based authoring tools, Object - Oriented Tools. 
+Assembling and delivering a project: The multimedia team, Planning and costing, designing and producing. 
+Multimedia and the internet: working of internet, Tools for www - web page makers and editors, HTML and 
+Multimedia, Video on demand, Images, sound and animation for the web.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 462A–OBJECT ORIENTED SOFTWARE ENGINEERING (3 Hours, 80 Marks)</dt>
+<dd>
+Object-oriented concepts and principles. Identifying the elements of an object model. Object oriented projects 
+metrics and estimation. 
+Object-oriented analysis: Domain analysis, the OOA process, the object-relationship model. 
+Design for object- oriented systems. The system design process. 
+Object-oriented testing - testing OOA and OOD models. The object-oriented testing strategies. Inter class 
+testing. 
+Technical metrics for O-O systems. Class-oriented metrics & metrics for O-O projects. 
+Advanced topics in software engineering. Component-based software engineering and development. 
+Classifying and retrieving components. 
+Review of CASE tools.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 464A : REAL TIME SYSTEMS (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to real-time computing: Characteristics of real-time system & tasks, performance measurement of 
+real-time systems, estimation of program runtime. 
+Real-time system design: hardware requirements, systems development cycle, data-transfer techniques, 
+synchronous and asynchronous data-transfer techniques, standard interfaces. 
+Task assignment and scheduling: priority scheduling, dynamic scheduling, buses in dynamic scheduling, 
+dynamic priority assignment. Real-time programming languages and tools. Desired language characteristics, 
+data typing. Control structure, run-time error handling, over-loading and generics, run-time support, real-time 
+databases. 
+Real-time communication, fault-tolerance techniques, cause of failure, fault types, fault detection, redundancy, 
+integrated failure handling. 
+Reliability evaluation techniques; parameter values, reliability model for hardware redundancy, software error 
+model, clock synchronization.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 466 A : GRAPH THEORY (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to graphs, applications, representation of graphs. Walk, Paths and circuits. Isomorphism, 
+connectedness, Euler graph, subgraph, operations on graph, Hamiltonian Paths and Circuits, Traveling 
+Salesman problem, algorithm of graph traversals, connectedness. 
+Tree, Spanning tree, Fundamental Circuits, Cut-sets, Connectivity and Separability, 
+1-isomorphism, 2-Isomorphism, Network flow, Algorithm for spanning tree, cut vertex. 
+Planar and Dual graphs, Kuratowski's two graph, representations of planar graph, algorithm for detection of 
+planarity, geometric and combinatorial dual graph, thickness and crossings. 
+Matrix representation of graphs, incident matrix circuit matrix, cutset matrix, path matrix, adjacency matrix. 
+Coloring, covering and partitioning, chromatic number, chromatic polynomial, matching, bipartite graph, four 
+color problem. 
+Directed graphs, types, binary relations, connectedness, Euler digraph, tree, fundamental circuits, 
+adjacency matrix, tournaments, acyclic digraph, decyclization, algorithm for finding directed circuits.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 470A : COMPUTATIONAL SCIENCE (3 Hours, 80 Marks)</dt>
+<dd>
+Modeling and Simulation: Definition of simulation and modeling; relationship between simulation and 
+modeling, Purpose including benefits and limitations: role - addressing performance, optimization; supporting 
+decision, making, forecasting, safety considerations. 
+ Application areas: healthcare (including assisting with diagnostics); economics and finance; city and urban 
+simulations; simulation in science and in engineering. 
+Types of simulations - physical, human in the loop, interaction, computer, virtual reality. The simulation 
+process. simplifying, assumptions; validation of outcomes. 
+Model building: use of mathematical formula or equation, graphs, constraints. Methodologies and techniques. 
+Use of time stepping for dynamic systems. 
+Theoretical considerations; Monte Carlo methods, stochastic processes, queuing theory. Software in support of 
+simulation and modeling; packages, languages. 
+Operations Research: Linear programming: Integer programming, The Simplex method, Probabilistic 
+modeling, Queuing theory, Markov models and chains, Prediction and estimation, Decision analysis, 
+Forecasting, Risk management. 
+Software tools for Simulations and Modeling.
+</dd>
+</dl>
+</li>
+
+
+
+<li>
+<dl>
+<dt>CSE 465 A : INFORMATION THEORY AND CODING (3 Hours, 80 Marks)</dt>
+<dd>
+Uncertainty, information, measure of information, average information, entropy, property of entropy, 
+information rate. Discrete memoryless source, Source coding theorem, 
+Discrete memoryless channel, self and Mutual information, properties, channel capacity, channel coding
+theorem, Shannon - Hartley theorem, Information capacity theorem. 
+Data compaction, prefix coding, Huffman coding, Lempal-Ziv coding. Compression of information. 
+Type of errors, codes, error control coding, linear block code, error detection and correction codes, syndrome 
+decoding, cyclic codes, hamming code, BCH, convolution codes, encoders and decoders, performance of codes.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 469A : BIOINFORMATICS (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to Molecular Biology and Biological chemistry: Genetic material, Gene structure and information 
+content, protein structure and functions, nature of chemical bonds, molecular biology tools, genomic 
+information content. 
+Data Searches and pair-wise alignments: Dot plots, Gaps, Dynamic Programming, database searches and family 
+of algorithms - BLAST and FASTA. 
+Substitution patterns: Pattern substitution with in genes, estimating substitution numbers, variation of 
+evolutionary rates between genes, molecular clocks.
+Phylogenetics: Its history, phylogentic trees, distance matrix methods. Character-based methods - parsimony, 
+ancestral sequences. Strategies for faster searches - branch and bound, heuristic. Consensus trees, parametric 
+tests. The tree of life. Genomics and gene Recognition: prokaryotic and eukaryotic genomes and their structures, open reading frames, 
+gene expression. 
+Protein and RNA structure prediction: Amino-acids, polypeptide composition, structure. Algorithms for 
+modeling protein folding, and reverse protein folding. 
+Information integration for life science discovery: Nature of biological data, data sources, challenges in 
+information integration.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 471A : BLOCKCHAIN (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction, The consensus problem, Asynchronous Byzantine Agreement, AAP protocol and its analysis, 
+Nakamoto Consensus on permission-less, nameless, peer-to-peer network, Abstract Models for Blockchain,
+GARAY model, RLA Model, Proof of Work (PoW) as random oracle, formal treatment of consistency, liveness 
+and fairness, Proof of Stake (PoS) based Chains, Hybrid models (PoW + PoS). 
+Cryptographic basics for cryptocurrency, a short overview of Hashing, Signature schemes, encryption schemes, 
+public key crypto, verifiable random functions, Zero-knowledge systems. 
+Bitcoin, Wallet, Blocks, Bitcoin Data Structures, Merkley Tree, LPV nodes, hardness of mining, transaction 
+verifiability, anonymity, forks, double spending, Mathematical analysis of properties of Bitcoin. 
+Ethereum, Ethereum Virtual Machine (EVM), EVEM Data Structures, Alternative Data Structures, Wallets for 
+Ethereum, Solidity, Solidity pitfalls and disasters, Smart Contracts, Some attacks on smart contracts, ICO token, 
+Cryptokitties. 
+ Trends and Topics - Permissioned Blockchains, Hyperledger Fabric, Concurrent Contract Execution, Zero
+Knowledge proofs and protocols in Blockchain, Zcash, Succinct non interactive argument for Knowledge 
+(SNARK), pairing on Elliptic curves.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 472 A : ADVANCED COMPUTER ARCHITECTURE (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to parallel processing and trends: parallelism in uni-processor system, parallel computer structure, 
+architectural classification schemes for parallel computers, multiplicity of instruction - data streams, serial 
+versus parallel computers, parallelism versus pipelining. 
+Memory hierarchy: hierarchical memory structures, virtual memory system, memory allocation and 
+management. 
+Principles of pipelining: pipelining principles and classifications, general pipelines and reservation tables, 
+interleaved memory organization, instruction pre-fetch and branch handling, data buffering and busing 
+structures, internal forwarding and register tagging, hazard detection and resolution, job sequencing and 
+collision prevention, dynamic pipelines and reconfigurability. 
+Structure for array processors: SIMD computer organization, masking and data routing mechanism Inter PE 
+communication, introduction to associative array processing. 
+Multiprocessor architecture: loosely coupled and tightly coupled multiprocessors, processor characteristics for 
+multiprocessing, interconnection networks, cache coherence protocols. 
+Introduction to advance processors: Data flow computers, the VLIW architecture, fault tolerant architecture and 
+study of TANDEM HIMALAYAN K2 system architecture.
+</dd>
+</dl>
+</li>
+
+
+</ul>

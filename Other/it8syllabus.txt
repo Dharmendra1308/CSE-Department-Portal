@@ -1,0 +1,271 @@
+<h2 align='center'>IT EIGHTH SEMESTER</h2><br>
+<ul type='disc'>
+
+<li>
+<dl>
+<dt>CSE 423 A : CYBER SECURITY (3 Hours, 80 Marks)</dt>
+<dd>
+Basics of Cyber Security: Authorization and Authentication - types, policies and techniques. Security certification and 
+Auditing, Security Requirements Specifications. Firewalls, IDS, Log Files, Honey Pots. Human factors - Security 
+awareness, training, Email and Internet use policies. 
+Application security - Key Problems - Buffer Overrun, Format String Problems, Integer Overflow, and Software 
+Security Fundamentals. Handling user access, Validating user input. Web Application Security - HTTP Attacks. Attacks 
+on Session Token Generation, Token Handling, Session Management. Attacking Access Control - Vulnerabilities, 
+Attacks and Countermeasures. Attacking Application Logic - Fooling a Password Change Function, Abusing a Search 
+Function. 
+Hacking Fundamentals - Ethics, Reconnaissance, Scanning and Enumeration. Sniffers, ARP poisoning and MAC 
+Flooding, Denial of Service, Session Hijacking, Social Engineering Web server-working, vulnerability and attacks. 
+Security Technologies - PC & Mobile security, Internet Security Systems, Intrusion Detection Systems, Firewall Security 
+Systems, Storage Area Network Security Systems, Network Disaster Recovery Systems, Public Key Infrastructure 
+Systems, Wireless Network Security Systems. 
+Cloud & Biometric Security - Cloud architecture model - SPI framework, XaaS Services, Deployment models. Cloud 
+security design principles, Virtualization security Management- Virtual threats, VM security recommendations, VM 
+security techniques - hardening, securing VM remote access. Biometric Security: Strong Authentication with Single 
+Sign-On (SSO), Concepts of Fingerprint Recognition, Face Recognition, Voice Recognition and Iris Recognition. General 
+Spoofing Techniques.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 424 A : BIG DATA ANALYTICS (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to Big Data - Traits of Big Data. Introduction to Distributed file systems. Need and importance of Big 
+Data. Challenges of Conventional Systems. Drivers of Big Data. Analytic Processes and Tools - Analysis vs Reporting. 
+Big Data Storage - Introduction to Apache Hadoop, History of Hadoop. Hadoop Distributed File System (HDFS), 
+Architecture and Goals. Namenodes and Datanodes. Federation. Storing and Retrieving Data. Hadoop Data flow, Data 
+Ingest with Flume and Sqoop. Hadoop Archives. 
+Hadoop Ecosystem: MapReduce - Architecture, Goals & Features. MapReduce Jobs & Design Patterns. Job Scheduling 
+and Failures, Task Execution, Types and Formats. Introduction to YARN - ResourceManager, NodeManager, 
+ApplicationMaster, Containers. Overview of Hive, Pig, HBase, ZooKeeper and Cassandra. 
+Big Data Processing - Stream Data Model and Architecture, Stream Computing, Filtering Streams. Introduction to 
+Apache Spark: Architecture & Applications. Introduction to Apache Kafka, Spark vs Kafka, Architecture & Applications. 
+Big Data Visualization - Challenges and Applications. Visual Thinking and Visual Analysis Reference Model. Visualizing 
+Structured, Unstructured, Multi-dimensional, Spatial and Temporal data. Overview of D3.js and Tableau.
+Big Data Analytics - Classification - Naive Bayes, Decision Trees. Clustering- K-Means and Hierarchical, Determining 
+the Number of Clusters, Diagnostics. Association Rules, Apriori Algorithm, Applications of Association Rules. 
+Introduction to Recommender Systems, Time Series Analysis, Forecasting, Anomaly Detection and Graph Analytics. 
+SparkML - Pipeline and applications.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 442 A : E-COMMERCE (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to electronic commerce, need of e-Commerce, Economic consideration. Infrastructure for E-Commerce, Intranets and Extranets and various Internet protocols. 
+Tools for E-Commerce: Introduction to web Server hardware and Web server Software. Introduction of mark-up languages, web portals, search engines, push technology. E-Commerce software RequirementsCatalogue display, shopping cart, transaction processing, and catalogue customization. E-Commerce software 
+development tools and hosting services. 
+Security Threats to E-Commerce: Introduction to web hacking. E-Commerce Security threats- Intellectual
+Property threat, client threat, communication channel threat and server threat. Policy for Protecting E-Commerce Assets. Ensuring transaction Integrity and security. 
+Electronic payment systems: Introduction to Electronic cash, Electronic Wallets, Smart cards, Credit and 
+Charge Cards. 
+Business strategies for web: Creating effective web presence, Identifying and reaching customers, creating and 
+maintaining brands on web. Business models for selling on web. 
+Introduction to purchasing, logistics and support activities on web. 
+Introduction to Electronic data Interchange and web auction. Supply Chain Management. Planning and 
+management of e-commerce projects. Legal, language, ethical and taxation issues of e-commerce.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 443 A : E-GOVERNANCE (3 Hours, 80 Marks)</dt>
+<dd>
+Principles of public administration. Basic premise - meaning, scope, nature of public administration and its 
+role. Evolution of public administration, politics & administration and the new public administration. 
+Theories of organization - the bureaucratic/classical model, behavioural model, decision model and systems 
+approach. Organisational effectiveness. 
+Principles of organizations, structure of organization, Administrative behaviour, Accountability and control, 
+people participation in administration. 
+Re-engineering. Role of IT in business process re-engineering (BPR), Business Process outsourcing (BPO). 
+Process identification and mapping. Process improvement and process re-design. System security, legal and 
+statutory/sovereign considerations. Re-organising people and managing change. Best practices. 
+Delivery of governance through technology. 
+Improving citizen - government interface, Govt-to-Govt coordination, workflow automation. Use of videoconferencing, DSS, web-technologies and enterprise wide computing paradigms. Domain knowledge and 
+technology expertise - case studies.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 453A : CLIENT-SERVER TECHNOLOGY (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction: Client/Server architecture, Benefits, application, centralize multiuser, Distributed single user 
+architecture, distributed computing environment. 
+Approach to Distribution: Distributed models, multi tiered environment, cooperative processing, application 
+components, and distribution points. Presentation distribution, distributed processing, distributed function and 
+transaction processing, data distribution. 
+Client technologies: Function, Application and tools, operating system, hardware plate forms, database access, 
+interprocess communication tools. 
+Server technologies: Function, server operating system, hardware plate forms, data access, distributed data 
+access, database engines. 
+System networks Architectures: Components, layers, pear-to-pear communication between SNA layers. 
+Data Management: Distributed data management, method of the distribution, distributed data access. Database 
+transaction management. 
+Distributed DBMS: Architecture, storing data in a distributed DBMS, Distributed catalog, management, 
+Distributed query processing, Update distributed data. Introduction to distributed transactions, distributed 
+concurrency control, and distributed recovery.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 454 A : MULTIMEDIA TECHNOLOGY (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to multimedia and its applications, Basic requirements for multimedia, Multimedia building blocks - Text, Sound, Images, Animation, Video and related tools. 
+ Multimedia Hardware: SCSI, MCI, Memory and storage devices, Output Hardware, Communication devices. 
+ Multimedia Software: Basic tools - Painting and drawing tools, 3-D modelling and animation tools, Images and 
+editing tools, OCR software, Sound Editing programs, Animation, Video and Digital Movies, Video Formats, 
+Compressing movie files. 
+Multimedia Authoring tools: Selecting a right tool based on various features, card and page based authoring 
+tools, Icon based authoring tools, Time based authoring tools, Object - Oriented Tools. 
+Assembling and delivering a project: The multimedia team, Planning and costing, designing and producing. 
+Multimedia and the internet: working of internet, Tools for www - web page makers and editors, HTML and 
+Multimedia, Video on demand, Images, sound and animation for the web.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 456A -MOBILE APPLICATION DEVELOPMENT (3 Hours, 80 Marks)</dt>
+<dd>
+Web, Native and Cross-Platform Development. Introduction to Android Software Stack and Architecture, DVM.. 
+Installing and configuring Android SDK and Android Studio. Design Considerations for mobile devices. Android Virtual 
+Device, Emulators, DDMS, Android Debug Bridge (ADB). Types of Android Applications. Introduction to Services, 
+Broadcast Receiver, Fragments and Intents. 
+Basics of Android Application Development - Launch Configurations, Execution and Debugging. Android Application 
+Life Cycle - Application, Activity and Manifests, Life Cycle Events. Resources - Values, Styles, Themes, Layouts etc. 
+Separating Resources from logic. Creating resources for different devices and locales. 
+Application User Interface - Views and Layouts. Optimizing Layouts. Drawable Views. Android UI Controls. Event 
+Listeners & Event Handlers in Android. Adapters, ListView and Spinner. Menus and Menu Hierarchies, Context Menus 
+and Popup Menus. Dialog - Alert Dialog Class, Activities as Dialogs, Toasts and Notifications. 
+Application Data - Application Preferences, Shared Preferences, File Handling, Files as Resources. Introduction to SQLite 
+- Cursors and Content Values. Working with SQLite Databases - Content Providers, CRUD Operations. Native Android 
+Content Providers. 
+Accessing Web Content and RESTful data sources, Introduction to Firebase. Introduction to Google Play Services. 
+Submitting an application to Google Playstore. Introduction to maps & location services.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 466 A : GRAPH THEORY (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to graphs, applications, representation of graphs. Walk, Paths and circuits. Isomorphism, 
+connectedness, Euler graph, subgraph, operations on graph, Hamiltonian Paths and Circuits, Traveling 
+Salesman problem, algorithm of graph traversals, connectedness. 
+Tree, Spanning tree, Fundamental Circuits, Cut-sets, Connectivity and Separability, 
+1-isomorphism, 2-Isomorphism, Network flow, Algorithm for spanning tree, cut vertex. 
+Planar and Dual graphs, Kuratowski's two graph, representations of planar graph, algorithm for detection of 
+planarity, geometric and combinatorial dual graph, thickness and crossings. 
+Matrix representation of graphs, incident matrix circuit matrix, cutset matrix, path matrix, adjacency matrix. 
+Coloring, covering and partitioning, chromatic number, chromatic polynomial, matching, bipartite graph, four 
+color problem. 
+Directed graphs, types, binary relations, connectedness, Euler digraph, tree, fundamental circuits, 
+adjacency matrix, tournaments, acyclic digraph, decyclization, algorithm for finding directed circuits.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 470A : COMPUTATIONAL SCIENCE (3 Hours, 80 Marks)</dt>
+<dd>
+Modeling and Simulation: Definition of simulation and modeling; relationship between simulation and 
+modeling, Purpose including benefits and limitations: role - addressing performance, optimization; supporting 
+decision, making, forecasting, safety considerations. 
+ Application areas: healthcare (including assisting with diagnostics); economics and finance; city and urban 
+simulations; simulation in science and in engineering. 
+Types of simulations - physical, human in the loop, interaction, computer, virtual reality. The simulation 
+process. simplifying, assumptions; validation of outcomes. 
+Model building: use of mathematical formula or equation, graphs, constraints. Methodologies and techniques. 
+Use of time stepping for dynamic systems. 
+Theoretical considerations; Monte Carlo methods, stochastic processes, queuing theory. Software in support of 
+simulation and modeling; packages, languages. 
+Operations Research: Linear programming: Integer programming, The Simplex method, Probabilistic 
+modeling, Queuing theory, Markov models and chains, Prediction and estimation, Decision analysis, 
+Forecasting, Risk management. 
+Software tools for Simulations and Modeling.
+</dd>
+</dl>
+</li>
+
+
+
+
+<li>
+<dl>
+<dt>CSE 462A–OBJECT ORIENTED SOFTWARE ENGINEERING (3 Hours, 80 Marks)</dt>
+<dd>
+Object-oriented concepts and principles. Identifying the elements of an object model. Object oriented projects 
+metrics and estimation. 
+Object-oriented analysis: Domain analysis, the OOA process, the object-relationship model. 
+Design for object- oriented systems. The system design process. 
+Object-oriented testing - testing OOA and OOD models. The object-oriented testing strategies. Inter class 
+testing. 
+Technical metrics for O-O systems. Class-oriented metrics & metrics for O-O projects. 
+Advanced topics in software engineering. Component-based software engineering and development. 
+Classifying and retrieving components. 
+Review of CASE tools.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 465 A : INFORMATION THEORY AND CODING (3 Hours, 80 Marks)</dt>
+<dd>
+Uncertainty, information, measure of information, average information, entropy, property of entropy, 
+information rate. Discrete memoryless source, Source coding theorem, 
+Discrete memoryless channel, self and Mutual information, properties, channel capacity, channel coding
+theorem, Shannon - Hartley theorem, Information capacity theorem. 
+Data compaction, prefix coding, Huffman coding, Lempal-Ziv coding. Compression of information. 
+Type of errors, codes, error control coding, linear block code, error detection and correction codes, syndrome 
+decoding, cyclic codes, hamming code, BCH, convolution codes, encoders and decoders, performance of codes.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 469A : BIOINFORMATICS (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction to Molecular Biology and Biological chemistry: Genetic material, Gene structure and information 
+content, protein structure and functions, nature of chemical bonds, molecular biology tools, genomic 
+information content. 
+Data Searches and pair-wise alignments: Dot plots, Gaps, Dynamic Programming, database searches and family 
+of algorithms - BLAST and FASTA. 
+Substitution patterns: Pattern substitution with in genes, estimating substitution numbers, variation of 
+evolutionary rates between genes, molecular clocks.
+Phylogenetics: Its history, phylogentic trees, distance matrix methods. Character-based methods - parsimony, 
+ancestral sequences. Strategies for faster searches - branch and bound, heuristic. Consensus trees, parametric 
+tests. The tree of life. Genomics and gene Recognition: prokaryotic and eukaryotic genomes and their structures, open reading frames, 
+gene expression. 
+Protein and RNA structure prediction: Amino-acids, polypeptide composition, structure. Algorithms for 
+modeling protein folding, and reverse protein folding. 
+Information integration for life science discovery: Nature of biological data, data sources, challenges in 
+information integration.
+</dd>
+</dl>
+</li>
+
+
+</ul>

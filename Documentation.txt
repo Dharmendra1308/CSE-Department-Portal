@@ -1,0 +1,33 @@
+Navigarion Bar :-
+1. Home / Landing Page : (landingpage.html)
+
+2. Notice : (notice.php)
+	read Notice from (Notice.txt)
+	
+3. Faculty : (faculty.php)
+	information fetch from (faculty) table
+
+4. Syllabus : (syllabus.php)
+	read syllabus from Syllabus Folder
+
+5. Time Table
+
+6. Univercity Website
+
+7. Alumini Website
+
+8. LogIn : (login.php)
+	
+	(i) For Admin : (adminlogin.php) = data authenticate from faculty table
+	
+	(ii) For Faculty
+
+	(iii) For Student
+
+
+
+
+
+///   Admin LogIn
+
+1. 

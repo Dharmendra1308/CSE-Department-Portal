@@ -1,0 +1,116 @@
+<ul type='disc'>
+
+<li>
+<dl>
+<dt>CSE 321A : COMPUTER GRAPHICS & VISUAL COMPUTING (3 Hours, 80 Marks)</dt>
+<dd>
+Visual Synthesis. Taxonomy of Computer Graphics - Raster & Vector Displays, Frame Buffer, 
+Persistence, Resolution, Refresh Rate, Aspect Ratio. Interactive vs Passive Graphics Systems. Input 
+Modes & Methods. Basics of Coordinate Systems - Points, Lines, Planes and Curves. Color Generation - 
+RGB, CMYK, HSV. 
+Two-Dimensional Systems - 2D Objects Representation, 2-D Transformations, 2-D Viewing Pipeline, 
+Clipping. Polygon Filling. Antialiasing. Three-Dimensional System - Projection Methods, Degrees of 
+Freedom, 3-D Graphics Pipeline, 3-D Object Representation - Polygon Surfaces, Polygon Meshes. Visible 
+Surface Detection - Back face, Z-buffer, painter algorithm. 
+Concepts of Imaging Systems. The Pinhole Camera and its properties. Illumination Models - Ambient, 
+Diffuse, Specular. Halftones and Dithering. Anatomy of a Digital Camera. 
+Image Based Visual Computing. Processing in Spatial and Frequency Domain. Image Filters - 
+Convolution and Linear Filters. Blur, Sharpen and Edge Operations. Histogram, Color and Pixel level 
+operations. Thresholding and Band Pass Filters. Non-Linear and Morphological Operations - Noise 
+Filtering, Dilation, Erosion, Majority. Contour Properties & applications. 
+Definitions and Brief Introduction only - Image Segmentation, Registration, Restoration and 
+Compression. Image Retrieval using Color, Shape and Texture. Object Detection & Recognition. Open 
+Problems in Computer Vision.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 322A : MODERN APPLICATION DEVELOPMENT (3 Hours, 80 Marks)</dt>
+<dd>
+Components of Web Applications - Business Logic, Application Layer and Presentation Layer. 
+HTML5 Features - WebStorage (Local and Session Storage), App Cache, Web Workers, Server-Sent Events, 
+Geolocation, Web Sockets, WebSQL Databases. Responsive Page Design - CSS Media Queries, Flexbox API. 
+Web Page Optimization. Page Speed Metrics, HTTP Caching - Cache-Control and ETags, HTTP Compression - Apache 
+mod_deflate, Minification, CSS Sprites, Redirects, JS Optimizations. 
+API First Development - Concepts, Pros & Cons. RESTful APIs using JSON and XML. Progressive Web Apps - Service 
+Workers, Cache API, Firebase Integration, Push Notifications. 
+Advanced PHP - Object-Oriented PHP Libraries, Typehints, Autoloaders, Composers, Front Controllers, PDO. 
+Introduction to MVC and Templating Engines - Smarty. 
+Introduction to Containers, Hypervisors, CI/CD Pipelines. Introduction to Microservices and Serverless Architectures.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 323A : JAVA PROGRAMMING (3 Hours, 80 Marks)</dt>
+<dd>
+Evolution of programming languages, generation of programming languages, type of programming languages.
+Basic feature of Java, flow control, classes, objects, interfaces, exception and packages.
+Java classes and object, access control and inheritance, constructions, inheritance and overloading. Extension 
+of classes.
+Data type, control-flow, basics of exception handling, operations on data types.
+Introductory idea of threads and their applications.
+Basic I0 packages and standard utilities. Application of Java for system programming.
+Introduction to LINUX shell, variables, condition and control structures.
+Introduction to TCL/TK programming language.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 325A : ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING (3 Hours, 80 Marks)</dt>
+<dd>
+Overview of AI. The Turing AI test. AI Problems & Applications. Reasoning & Agents. 
+Basic Search: Strategies Problem spaces, Search strategies. Uniformed, Heuristics and informed search,
+Space and time efficiency of search. Two-player games. Basic Knowledge Representation and Reasoning - Propositional & Predicate Logic. Review of basic Probability Concepts - Random Variables, 
+Probability Distributions, Axioms of Probability, Bayes' Rule, Correlation and Simpson's Paradox. 
+Machine Learning - Definition and learning tasks, Supervised, unsupervised and semi-supervised 
+learning. Classification & Regression, Inductive learning. Training & Test datasets, Distance Metrics & 
+Similarity Measures, Correlation & Higher Order Measures. Error Estimation. Classification Errors, 
+Confusion Matrices. 
+Data - Bias and Variance, Pre-processing, Scaling and Dimensionality Reduction (PCA). Statistical 
+learning - Naive Bayes. Linear & Logistic Regression. Overfitting & Underfitting. Introduction to 
+Decision Trees. Kernel Methods and Support Vector Machines. Ensemble Methods & Random Forests. 
+Perceptron & Neural Network Learning - Feed forward & Back Propagation Neural Networks. Gradient 
+Descent, Activation Functions & Regularization. Unsupervised Learning and Challenges: Clustering, Kmeans, EM algorithms, Mixture of Gaussians. Overview of Deep Learning.
+</dd>
+</dl>
+</li>
+
+
+<li>
+<dl>
+<dt>CSE 328A : PRINCIPLES OF COMPILER DESIGN (3 Hours, 80 Marks)</dt>
+<dd>
+Introduction of Translators, Compilers, Interpreters. Phases of Compiler, One Pass & Multipass 
+Compilers, Bootstrapping. Lexical Analyzer, Input Buffering, Specification and Recognition of Tokens, 
+Regular Expressions to NDFA, Minimization of DFA, Keywords and Reserve word policies, Lex - The 
+Lexical Analyzer Generator.
+Syntax Analyzer, Review of Context Free Grammars, Ambiguity of Grammars, Left Recursion, Left 
+Factoring. Top Down Parsing, Brute Force Parser, Recursive Descent Parser, Operator Precedence 
+Parser, LL (1) Parser. Bottom Up Parsing, LR Parser, Construction of SLR, Canonical LR & LALR 
+Parsing Tables, Yacc - The Parser Generator.
+Syntax Directed Translation Schemes, Implementation of Syntax Directed Translators, Synthesized 
+Attributes, Inherited Attributes, Construction of Syntax Trees, Bottom Up Evaluation of S- Attributed 
+Definitions, L-Attributed Definitions, Top Down Translation of L-Attributed Definitions. Errors, Lexical Phase Errors, Syntactic Phase Errors. Intermediate Languages, Postfix Notation, Three Address CodeTriples, Quadruples and Indirect Triples. Translation of Assignment Statements, Boolean Expression 
+and Control Structures.
+Symbol Tables, Operation on Symbol Tables, Symbol Table Organization, Run Time Storage 
+Management, Storage Allocation and Referencing Data in Block Structured Languages, Storage 
+Allocation in Fortran.
+Code Optimization, , Definition of Basic Block Control Flow Graphs, Dag Representation of Basic Block, 
+Advantages of Dag, Sources of Optimization, Loop Optimization, Idea about Global Data Flow Analysis, 
+Loop Invariant Computation, Peephole Optimization. Code Generation, A Machine Model, Register 
+Allocation And Assignment, A Simple Code Generator, Code Generation from Dag's.
+</dd>
+</dl>
+</li>
+
+
+</ul>
